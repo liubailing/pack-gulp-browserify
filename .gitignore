@@ -1,0 +1,7 @@
+
+**bak**
+**node_modules**
+/src/components/**/*.tmpl.js
+/lib/
+
+

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "jquery": "3.4.1",
+    "swiper": "5.2.0"
+  }
+}

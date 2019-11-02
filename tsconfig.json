@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "moduleResolution": "node",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext",
+            "es2018.regexp"
+        ]
+    },
+    "include": [
+        "src"
+    ]
+}
